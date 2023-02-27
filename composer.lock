@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "fa099a598ae986989e958aab3cbe438d",
+    "content-hash": "f8fd53e78179ceca37b117e8caca78a7",
     "packages": [
         {
             "name": "php-parallel-lint/php-parallel-lint",
@@ -1052,16 +1052,16 @@
         },
         {
             "name": "psalm/phar",
-            "version": "4.13.1",
+            "version": "5.7.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/psalm/phar.git",
-                "reference": "3bca7086f16e2881dccc2192c47b32311c2ca3f7"
+                "reference": "4a7fc6f671a9e8c44c81ea35a1a1978d40e95478"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/psalm/phar/zipball/3bca7086f16e2881dccc2192c47b32311c2ca3f7",
-                "reference": "3bca7086f16e2881dccc2192c47b32311c2ca3f7",
+                "url": "https://api.github.com/repos/psalm/phar/zipball/4a7fc6f671a9e8c44c81ea35a1a1978d40e95478",
+                "reference": "4a7fc6f671a9e8c44c81ea35a1a1978d40e95478",
                 "shasum": ""
             },
             "require": {
@@ -1081,9 +1081,9 @@
             "description": "Composer-based Psalm Phar",
             "support": {
                 "issues": "https://github.com/psalm/phar/issues",
-                "source": "https://github.com/psalm/phar/tree/4.13.1"
+                "source": "https://github.com/psalm/phar/tree/5.7.6"
             },
-            "time": "2021-11-23T23:59:04+00:00"
+            "time": "2023-02-24T19:50:34+00:00"
         },
         {
             "name": "psr/container",
@@ -3158,5 +3158,5 @@
     "prefer-lowest": false,
     "platform": [],
     "platform-dev": [],
-    "plugin-api-version": "2.1.0"
+    "plugin-api-version": "2.3.0"
 }
